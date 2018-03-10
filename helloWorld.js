@@ -1,4 +1,4 @@
-var str = "hello world!!!!!! :)";
+var str = "hello world";
 
 function printStr(str){
   console.log(str);
